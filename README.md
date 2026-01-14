@@ -6,6 +6,8 @@ Hello world
 
 ### Committing 101
 
+`git add (file)`
+
 `git commit -m (message)`
 
 `git push`
@@ -13,3 +15,4 @@ Hello world
 `git fetch`
 
 `git pull`
+
