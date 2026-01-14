@@ -3,3 +3,5 @@
 Hello world
 
 ## Learning Git
+
+### Committing 101
