@@ -6,4 +6,4 @@ Hello world
 
 ### Committing 101
 
-`git commit -m (message`
+`git commit -m (message)`
