@@ -5,3 +5,5 @@ Hello world
 ## Learning Git
 
 ### Committing 101
+
+`git commit -m (message`
