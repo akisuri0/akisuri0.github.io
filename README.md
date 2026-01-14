@@ -23,3 +23,5 @@
 `git pull`
 
 `git log`
+
+`git checkout (branch)`
