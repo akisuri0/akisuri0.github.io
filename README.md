@@ -6,7 +6,7 @@ Hello world
 
 ### Committing 101
 
-`git add (file)`
+`git add (file)` or `git add --all`
 
 `git commit -m (message)`
 
