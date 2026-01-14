@@ -14,6 +14,8 @@
 
 `git commit -m (message)`
 
+`git diff --staged`
+
 `git push`
 
 `git fetch`
