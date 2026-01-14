@@ -11,3 +11,5 @@ Hello world
 `git push`
 
 `git fetch`
+
+`git pull`
