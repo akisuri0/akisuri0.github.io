@@ -8,6 +8,8 @@ Hello world
 
 `git add (file)` or `git add --all`
 
+`git status`
+
 `git commit -m (message)`
 
 `git push`
