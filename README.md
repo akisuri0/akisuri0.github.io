@@ -10,6 +10,8 @@
 
 `git status`
 
+`git diff`
+
 `git commit -m (message)`
 
 `git push`
