@@ -20,3 +20,4 @@ Hello world
 
 `git pull`
 
+`git log`
